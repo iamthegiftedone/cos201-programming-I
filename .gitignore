@@ -1,0 +1,13 @@
+# Compiled Java bytecode
+*.class
+
+# Course material / large binaries
+*.pdf
+
+# IDE and Editor files
+.vscode/
+*.iml
+.idea/
+bin/
+
+
